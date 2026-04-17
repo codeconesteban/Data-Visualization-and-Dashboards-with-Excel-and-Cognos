@@ -1,4 +1,4 @@
-# # Data Visualization and Dashboards with Excel and Cognos <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+## Data Visualization and Dashboards with Excel and Cognos <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 ## About this Course
 
 This course focuses on building practical skills in data visualization and dashboard creation using tools like Excel and IBM Cognos Analytics. It covers both foundational and advanced concepts, emphasizing how to transform raw data into meaningful insights through visual storytelling.
